@@ -17,6 +17,7 @@ namespace Assignment_JeremySaetern
     public partial class MainWindow : Window
     {
         // HELLO
+        // GREAT FIRST DAY OF LECTURE
         public MainWindow()
         {
             InitializeComponent();
